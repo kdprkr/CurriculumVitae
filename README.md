@@ -1,4 +1,3 @@
-## CurriculumVitae
+## CurriculumVitae ~ Overview
 
-## Overview
 `pdf/` = contains dated pdf copies of my CV <br/>
